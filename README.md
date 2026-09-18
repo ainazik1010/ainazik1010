@@ -2,10 +2,10 @@
 
 ## 💻 Projects
 
-- **[your-coffee-website](https://github.com/ainazik1010/your-coffee-website)** — Marketing-Website für Self-Service-Kaffeestationen (HTML/CSS/JavaScript, Kontaktformular-Anbindung über Google Apps Script)
-- **[ASD-Website](https://github.com/ainazik1010/ASD-Website)** — Mehrsprachige Firmenwebsite (Deutsch/Russisch/Englisch) für ein Unternehmen aus der Lebensmitteltechnik, dreisprachiges i18n-System ohne Framework
-- **[coddy-java-projects](https://github.com/ainazik1010/coddy-java-projects)** — Kleine Java-Übungsprojekte aus meinen Coddy-Kursen
-- **[coddy-python-projects](https://github.com/ainazik1010/coddy-python-projects)** — Kleine Python-Übungsprojekte aus meinen Coddy-Kursen
+- **[your-coffee-website](https://github.com/ainazik1010/your-coffee-website)** — Marketing website for self-service coffee stations (HTML/CSS/JavaScript, contact form integration via Google Apps Script)
+- **[ASD-Website](https://github.com/ainazik1010/ASD-Website)** — Multilingual company website (German/Russian/English) for a food technology company, custom three-language i18n system without a framework
+- **[coddy-java-projects](https://github.com/ainazik1010/coddy-java-projects)** — Small Java practice projects from my Coddy courses
+- **[coddy-python-projects](https://github.com/ainazik1010/coddy-python-projects)** — Small Python practice projects from my Coddy courses
 
 ## 📜 Certifications
 

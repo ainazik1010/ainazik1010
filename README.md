@@ -1,5 +1,10 @@
 ### Hi, I'm Ainazik 👋
 
+## 💻 Projects
+
+- **[your-coffee-website](https://github.com/ainazik1010/your-coffee-website)** — Marketing-Website für Self-Service-Kaffeestationen (HTML/CSS/JavaScript, Kontaktformular-Anbindung über Google Apps Script)
+- **[ASD-Website](https://github.com/ainazik1010/ASD-Website)** — Mehrsprachige Firmenwebsite (Deutsch/Russisch/Englisch) für ein Unternehmen aus der Lebensmitteltechnik, dreisprachiges i18n-System ohne Framework
+
 ## 📜 Certifications
 
 - **Java Fundamentals** — Certificate of Completion (Certification ID: `MGL32c-java-jx1zAL`) — [View certificate](certificates/java-fundamentals.pdf)

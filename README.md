@@ -2,6 +2,7 @@
 
 ## 💻 Projects
 
+- **[REELSPRO-Website](https://github.com/ainazik1010/REELSPRO-Website)** — One-page marketing site for a travel-reels production studio (HTML/CSS/JavaScript, portfolio filtering, validated contact form)
 - **[your-coffee-website](https://github.com/ainazik1010/your-coffee-website)** — Marketing website for self-service coffee stations (HTML/CSS/JavaScript, contact form integration via Google Apps Script)
 - **[ASD-Website](https://github.com/ainazik1010/ASD-Website)** — Multilingual company website (German/Russian/English) for a food technology company, custom three-language i18n system without a framework
 - **[coddy-java-projects](https://github.com/ainazik1010/coddy-java-projects)** — Small Java practice projects from my Coddy courses
